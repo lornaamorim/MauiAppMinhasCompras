@@ -21,6 +21,7 @@ namespace MauiAppMinhasCompras.Models
             get => _descricao;
             set
             {
+                //a
                 // Verifica se o valor da descrição é nulo e lança uma exceção, se necessário.
                 if (value == null)
                 {
